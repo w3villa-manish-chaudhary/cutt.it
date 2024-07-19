@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "/home/manish/Downloads/link2/logs/.38818c799188b17cec979174c668400660ece36a-audit.json",
+    "files": [
+        {
+            "date": 1721280257026,
+            "name": "/home/manish/Downloads/link2/logs/2024-07-18_app.log",
+            "hash": "8b98967014bd2192a16f3805edd5701abd67e3511eadbf47f0ecfb7d320b0094"
+        },
+        {
+            "date": 1721327412370,
+            "name": "/home/manish/Downloads/link2/logs/2024-07-19_app.log",
+            "hash": "3aa460c94f54b717b0a8043e5ddd95066a9ecf103245443d0c2afe3e0d33a78a"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,476 @@
+[2024-07-17 09:49:30] info: ::1 - - [17/Jul/2024:04:19:30 +0000] "GET / HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:49:30] info: ::1 - - [17/Jul/2024:04:19:30 +0000] "GET /_next/static/chunks/fallback/webpack.js?ts=1721189970875 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:49:30] info: ::1 - - [17/Jul/2024:04:19:30 +0000] "GET /_next/static/chunks/fallback/pages/_app.js?ts=1721189970875 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:49:30] info: ::1 - - [17/Jul/2024:04:19:30 +0000] "GET /_next/static/chunks/fallback/pages/_error.js?ts=1721189970875 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:49:30] info: ::1 - - [17/Jul/2024:04:19:30 +0000] "GET /_next/static/chunks/fallback/react-refresh.js?ts=1721189970875 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:49:31] info: ::1 - - [17/Jul/2024:04:19:31 +0000] "GET /_next/static/chunks/fallback/main.js?ts=1721189970875 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:49:31] info: ::1 - - [17/Jul/2024:04:19:31 +0000] "GET /_next/static/development/_devMiddlewareManifest.json HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:49:31] info: ::1 - - [17/Jul/2024:04:19:31 +0000] "GET /__nextjs_original-stack-frame?isServer=true&isEdgeServer=false&errorMessage=InvalidTokenError%3A+Invalid+token+specified%3A+Cannot+read+properties+of+undefined+%28reading+%27replace%27%29&file=file%3A%2F%2F%2Fhome%2Fw3villa%2FDocuments%2Flink%2Fnode_modules%2Fjwt-decode%2Fbuild%2Fjwt-decode.cjs.js&methodName=Object.%3Canonymous%3E&arguments=&lineNumber=1&column=1147 HTTP/1.1" 302 26 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:49:31] info: ::1 - - [17/Jul/2024:04:19:31 +0000] "GET /__nextjs_original-stack-frame?isServer=true&isEdgeServer=false&errorMessage=InvalidTokenError%3A+Invalid+token+specified%3A+Cannot+read+properties+of+undefined+%28reading+%27replace%27%29&file=file%3A%2F%2F%2Fhome%2Fw3villa%2FDocuments%2Flink%2Fclient%2F.next%2Fserver%2Fpages%2F_app.js&methodName=jwt-decode&arguments=&lineNumber=186&column=18 HTTP/1.1" 302 26 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:49:31] info: ::1 - - [17/Jul/2024:04:19:31 +0000] "GET /__nextjs_original-stack-frame?isServer=true&isEdgeServer=false&errorMessage=InvalidTokenError%3A+Invalid+token+specified%3A+Cannot+read+properties+of+undefined+%28reading+%27replace%27%29&file=file%3A%2F%2F%2Fhome%2Fw3villa%2FDocuments%2Flink%2Fclient%2F.next%2Fserver%2Fwebpack-runtime.js&methodName=__webpack_require__&arguments=&lineNumber=33&column=42 HTTP/1.1" 302 26 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:49:31] info: ::1 - - [17/Jul/2024:04:19:31 +0000] "GET /__nextjs_original-stack-frame?isServer=true&isEdgeServer=false&errorMessage=InvalidTokenError%3A+Invalid+token+specified%3A+Cannot+read+properties+of+undefined+%28reading+%27replace%27%29&file=webpack-internal%3A%2F%2F%2F.%2Fpages%2F_app.tsx&methodName=eval&arguments=&lineNumber=16&column=68 HTTP/1.1" 302 26 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:49:31] info: ::1 - - [17/Jul/2024:04:19:31 +0000] "GET /404 HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:49:31] info: ::1 - - [17/Jul/2024:04:19:31 +0000] "GET /404 HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:49:31] info: ::1 - - [17/Jul/2024:04:19:31 +0000] "GET /404 HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:49:31] info: ::1 - - [17/Jul/2024:04:19:31 +0000] "GET /404 HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:00] info: ::1 - - [17/Jul/2024:04:25:00 +0000] "GET /_next/static/webpack/4e6b1ab85d29ca45.webpack.hot-update.json HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:00] info: ::1 - - [17/Jul/2024:04:25:00 +0000] "GET / HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:00] info: ::1 - - [17/Jul/2024:04:25:00 +0000] "GET /_next/static/chunks/fallback/webpack.js?ts=1721190300647 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:00] info: ::1 - - [17/Jul/2024:04:25:00 +0000] "GET /_next/static/chunks/fallback/react-refresh.js?ts=1721190300647 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:00] info: ::1 - - [17/Jul/2024:04:25:00 +0000] "GET /_next/static/chunks/fallback/pages/_app.js?ts=1721190300647 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:00] info: ::1 - - [17/Jul/2024:04:25:00 +0000] "GET /_next/static/chunks/fallback/pages/_error.js?ts=1721190300647 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:00] info: ::1 - - [17/Jul/2024:04:25:00 +0000] "GET /_next/static/chunks/fallback/main.js?ts=1721190300647 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:01] info: ::1 - - [17/Jul/2024:04:25:01 +0000] "GET /_next/static/development/_devMiddlewareManifest.json HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:12] info: ::1 - - [17/Jul/2024:04:25:12 +0000] "GET /_next/static/webpack/4e6b1ab85d29ca45.webpack.hot-update.json HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:12] info: ::1 - - [17/Jul/2024:04:25:12 +0000] "GET / HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:12] info: ::1 - - [17/Jul/2024:04:25:12 +0000] "GET /_next/static/chunks/fallback/webpack.js?ts=1721190312623 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:12] info: ::1 - - [17/Jul/2024:04:25:12 +0000] "GET /_next/static/chunks/fallback/react-refresh.js?ts=1721190312623 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:12] info: ::1 - - [17/Jul/2024:04:25:12 +0000] "GET /_next/static/chunks/fallback/pages/_app.js?ts=1721190312623 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:12] info: ::1 - - [17/Jul/2024:04:25:12 +0000] "GET /_next/static/chunks/fallback/pages/_error.js?ts=1721190312623 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:12] info: ::1 - - [17/Jul/2024:04:25:12 +0000] "GET /_next/static/chunks/fallback/main.js?ts=1721190312623 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:12] info: ::1 - - [17/Jul/2024:04:25:12 +0000] "GET /_next/static/development/_devMiddlewareManifest.json HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:24] info: ::1 - - [17/Jul/2024:04:25:24 +0000] "GET /_next/static/webpack/4e6b1ab85d29ca45.webpack.hot-update.json HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:24] info: ::1 - - [17/Jul/2024:04:25:24 +0000] "GET / HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:24] info: ::1 - - [17/Jul/2024:04:25:24 +0000] "GET /_next/static/chunks/fallback/webpack.js?ts=1721190324604 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:24] info: ::1 - - [17/Jul/2024:04:25:24 +0000] "GET /_next/static/chunks/fallback/react-refresh.js?ts=1721190324604 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:24] info: ::1 - - [17/Jul/2024:04:25:24 +0000] "GET /_next/static/chunks/fallback/pages/_app.js?ts=1721190324604 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:24] info: ::1 - - [17/Jul/2024:04:25:24 +0000] "GET /_next/static/chunks/fallback/pages/_error.js?ts=1721190324604 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:24] info: ::1 - - [17/Jul/2024:04:25:24 +0000] "GET /_next/static/chunks/fallback/main.js?ts=1721190324604 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:24] info: ::1 - - [17/Jul/2024:04:25:24 +0000] "GET /_next/static/development/_devMiddlewareManifest.json HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:36] info: ::1 - - [17/Jul/2024:04:25:36 +0000] "GET /_next/static/webpack/4e6b1ab85d29ca45.webpack.hot-update.json HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:36] info: ::1 - - [17/Jul/2024:04:25:36 +0000] "GET / HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:36] info: ::1 - - [17/Jul/2024:04:25:36 +0000] "GET /_next/static/chunks/fallback/webpack.js?ts=1721190336664 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:36] info: ::1 - - [17/Jul/2024:04:25:36 +0000] "GET /_next/static/chunks/fallback/react-refresh.js?ts=1721190336664 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:36] info: ::1 - - [17/Jul/2024:04:25:36 +0000] "GET /_next/static/chunks/fallback/pages/_app.js?ts=1721190336664 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:36] info: ::1 - - [17/Jul/2024:04:25:36 +0000] "GET /_next/static/chunks/fallback/pages/_error.js?ts=1721190336664 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:36] info: ::1 - - [17/Jul/2024:04:25:36 +0000] "GET /_next/static/chunks/fallback/main.js?ts=1721190336664 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:37] info: ::1 - - [17/Jul/2024:04:25:37 +0000] "GET /_next/static/development/_devMiddlewareManifest.json HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:48] info: ::1 - - [17/Jul/2024:04:25:48 +0000] "GET /_next/static/webpack/4e6b1ab85d29ca45.webpack.hot-update.json HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:48] info: ::1 - - [17/Jul/2024:04:25:48 +0000] "GET / HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:48] info: ::1 - - [17/Jul/2024:04:25:48 +0000] "GET /_next/static/chunks/fallback/webpack.js?ts=1721190348599 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:48] info: ::1 - - [17/Jul/2024:04:25:48 +0000] "GET /_next/static/chunks/fallback/react-refresh.js?ts=1721190348599 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:48] info: ::1 - - [17/Jul/2024:04:25:48 +0000] "GET /_next/static/chunks/fallback/pages/_app.js?ts=1721190348599 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:48] info: ::1 - - [17/Jul/2024:04:25:48 +0000] "GET /_next/static/chunks/fallback/pages/_error.js?ts=1721190348599 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:48] info: ::1 - - [17/Jul/2024:04:25:48 +0000] "GET /_next/static/chunks/fallback/main.js?ts=1721190348599 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 09:55:48] info: ::1 - - [17/Jul/2024:04:25:48 +0000] "GET /_next/static/development/_devMiddlewareManifest.json HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:32:34] info: ::1 - - [17/Jul/2024:05:02:34 +0000] "GET / HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:32:34] info: ::1 - - [17/Jul/2024:05:02:34 +0000] "GET /_next/static/chunks/fallback/webpack.js?ts=1721192554624 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:32:34] info: ::1 - - [17/Jul/2024:05:02:34 +0000] "GET /_next/static/chunks/fallback/pages/_app.js?ts=1721192554624 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:32:34] info: ::1 - - [17/Jul/2024:05:02:34 +0000] "GET /_next/static/chunks/fallback/pages/_error.js?ts=1721192554624 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:32:34] info: ::1 - - [17/Jul/2024:05:02:34 +0000] "GET /_next/static/chunks/fallback/react-refresh.js?ts=1721192554624 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:32:34] info: ::1 - - [17/Jul/2024:05:02:34 +0000] "GET /_next/static/chunks/fallback/main.js?ts=1721192554624 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:32:35] info: ::1 - - [17/Jul/2024:05:02:35 +0000] "GET /_next/static/development/_devMiddlewareManifest.json HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:32:35] info: ::1 - - [17/Jul/2024:05:02:35 +0000] "GET /__nextjs_original-stack-frame?isServer=true&isEdgeServer=false&errorMessage=InvalidTokenError%3A+Invalid+token+specified%3A+Cannot+read+properties+of+undefined+%28reading+%27replace%27%29&file=file%3A%2F%2F%2Fhome%2Fw3villa%2FDocuments%2Flink%2Fnode_modules%2Fjwt-decode%2Fbuild%2Fjwt-decode.cjs.js&methodName=Object.%3Canonymous%3E&arguments=&lineNumber=1&column=1147 HTTP/1.1" 302 26 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:32:35] info: ::1 - - [17/Jul/2024:05:02:35 +0000] "GET /__nextjs_original-stack-frame?isServer=true&isEdgeServer=false&errorMessage=InvalidTokenError%3A+Invalid+token+specified%3A+Cannot+read+properties+of+undefined+%28reading+%27replace%27%29&file=file%3A%2F%2F%2Fhome%2Fw3villa%2FDocuments%2Flink%2Fclient%2F.next%2Fserver%2Fpages%2F_app.js&methodName=jwt-decode&arguments=&lineNumber=186&column=18 HTTP/1.1" 302 26 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:32:35] info: ::1 - - [17/Jul/2024:05:02:35 +0000] "GET /__nextjs_original-stack-frame?isServer=true&isEdgeServer=false&errorMessage=InvalidTokenError%3A+Invalid+token+specified%3A+Cannot+read+properties+of+undefined+%28reading+%27replace%27%29&file=file%3A%2F%2F%2Fhome%2Fw3villa%2FDocuments%2Flink%2Fclient%2F.next%2Fserver%2Fwebpack-runtime.js&methodName=__webpack_require__&arguments=&lineNumber=33&column=42 HTTP/1.1" 302 26 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:32:35] info: ::1 - - [17/Jul/2024:05:02:35 +0000] "GET /__nextjs_original-stack-frame?isServer=true&isEdgeServer=false&errorMessage=InvalidTokenError%3A+Invalid+token+specified%3A+Cannot+read+properties+of+undefined+%28reading+%27replace%27%29&file=webpack-internal%3A%2F%2F%2F.%2Fpages%2F_app.tsx&methodName=eval&arguments=&lineNumber=16&column=68 HTTP/1.1" 302 26 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:32:35] info: ::1 - - [17/Jul/2024:05:02:35 +0000] "GET /404 HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:32:35] info: ::1 - - [17/Jul/2024:05:02:35 +0000] "GET /404 HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:32:35] info: ::1 - - [17/Jul/2024:05:02:35 +0000] "GET /404 HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:32:35] info: ::1 - - [17/Jul/2024:05:02:35 +0000] "GET /404 HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:36:24] info: ::1 - - [17/Jul/2024:05:06:24 +0000] "GET /_next/static/webpack/4e6b1ab85d29ca45.webpack.hot-update.json HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:36:24] info: ::1 - - [17/Jul/2024:05:06:24 +0000] "GET / HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:36:24] info: ::1 - - [17/Jul/2024:05:06:24 +0000] "GET /_next/static/chunks/fallback/webpack.js?ts=1721192784717 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:36:24] info: ::1 - - [17/Jul/2024:05:06:24 +0000] "GET /_next/static/chunks/fallback/react-refresh.js?ts=1721192784717 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:36:24] info: ::1 - - [17/Jul/2024:05:06:24 +0000] "GET /_next/static/chunks/fallback/pages/_app.js?ts=1721192784717 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:36:24] info: ::1 - - [17/Jul/2024:05:06:24 +0000] "GET /_next/static/chunks/fallback/pages/_error.js?ts=1721192784717 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:36:25] info: ::1 - - [17/Jul/2024:05:06:25 +0000] "GET /_next/static/chunks/fallback/main.js?ts=1721192784717 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:36:25] info: ::1 - - [17/Jul/2024:05:06:25 +0000] "GET /_next/static/development/_devMiddlewareManifest.json HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:36:36] info: ::1 - - [17/Jul/2024:05:06:36 +0000] "GET /_next/static/webpack/4e6b1ab85d29ca45.webpack.hot-update.json HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:36:36] info: ::1 - - [17/Jul/2024:05:06:36 +0000] "GET / HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:36:36] info: ::1 - - [17/Jul/2024:05:06:36 +0000] "GET /_next/static/chunks/fallback/webpack.js?ts=1721192796639 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:36:36] info: ::1 - - [17/Jul/2024:05:06:36 +0000] "GET /_next/static/chunks/fallback/react-refresh.js?ts=1721192796639 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:36:36] info: ::1 - - [17/Jul/2024:05:06:36 +0000] "GET /_next/static/chunks/fallback/pages/_app.js?ts=1721192796639 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:36:36] info: ::1 - - [17/Jul/2024:05:06:36 +0000] "GET /_next/static/chunks/fallback/pages/_error.js?ts=1721192796639 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:36:36] info: ::1 - - [17/Jul/2024:05:06:36 +0000] "GET /_next/static/chunks/fallback/main.js?ts=1721192796639 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:36:36] info: ::1 - - [17/Jul/2024:05:06:36 +0000] "GET /_next/static/development/_devMiddlewareManifest.json HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:36:48] info: ::1 - - [17/Jul/2024:05:06:48 +0000] "GET /_next/static/webpack/4e6b1ab85d29ca45.webpack.hot-update.json HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:36:48] info: ::1 - - [17/Jul/2024:05:06:48 +0000] "GET / HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:36:48] info: ::1 - - [17/Jul/2024:05:06:48 +0000] "GET /_next/static/chunks/fallback/webpack.js?ts=1721192808638 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:36:48] info: ::1 - - [17/Jul/2024:05:06:48 +0000] "GET /_next/static/chunks/fallback/react-refresh.js?ts=1721192808638 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:36:48] info: ::1 - - [17/Jul/2024:05:06:48 +0000] "GET /_next/static/chunks/fallback/pages/_app.js?ts=1721192808638 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:36:48] info: ::1 - - [17/Jul/2024:05:06:48 +0000] "GET /_next/static/chunks/fallback/pages/_error.js?ts=1721192808638 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:36:48] info: ::1 - - [17/Jul/2024:05:06:48 +0000] "GET /_next/static/chunks/fallback/main.js?ts=1721192808638 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:36:48] info: ::1 - - [17/Jul/2024:05:06:48 +0000] "GET /_next/static/development/_devMiddlewareManifest.json HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:00] info: ::1 - - [17/Jul/2024:05:07:00 +0000] "GET /_next/static/webpack/4e6b1ab85d29ca45.webpack.hot-update.json HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:00] info: ::1 - - [17/Jul/2024:05:07:00 +0000] "GET / HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:00] info: ::1 - - [17/Jul/2024:05:07:00 +0000] "GET /_next/static/chunks/fallback/webpack.js?ts=1721192820701 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:00] info: ::1 - - [17/Jul/2024:05:07:00 +0000] "GET /_next/static/chunks/fallback/react-refresh.js?ts=1721192820701 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:00] info: ::1 - - [17/Jul/2024:05:07:00 +0000] "GET /_next/static/chunks/fallback/pages/_app.js?ts=1721192820701 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:00] info: ::1 - - [17/Jul/2024:05:07:00 +0000] "GET /_next/static/chunks/fallback/pages/_error.js?ts=1721192820701 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:00] info: ::1 - - [17/Jul/2024:05:07:00 +0000] "GET /_next/static/chunks/fallback/main.js?ts=1721192820701 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:01] info: ::1 - - [17/Jul/2024:05:07:01 +0000] "GET /_next/static/development/_devMiddlewareManifest.json HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:12] info: ::1 - - [17/Jul/2024:05:07:12 +0000] "GET /_next/static/webpack/4e6b1ab85d29ca45.webpack.hot-update.json HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:12] info: ::1 - - [17/Jul/2024:05:07:12 +0000] "GET / HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:12] info: ::1 - - [17/Jul/2024:05:07:12 +0000] "GET /_next/static/chunks/fallback/webpack.js?ts=1721192832608 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:12] info: ::1 - - [17/Jul/2024:05:07:12 +0000] "GET /_next/static/chunks/fallback/react-refresh.js?ts=1721192832608 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:12] info: ::1 - - [17/Jul/2024:05:07:12 +0000] "GET /_next/static/chunks/fallback/pages/_app.js?ts=1721192832608 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:12] info: ::1 - - [17/Jul/2024:05:07:12 +0000] "GET /_next/static/chunks/fallback/pages/_error.js?ts=1721192832608 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:12] info: ::1 - - [17/Jul/2024:05:07:12 +0000] "GET /_next/static/chunks/fallback/main.js?ts=1721192832608 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:13] info: ::1 - - [17/Jul/2024:05:07:13 +0000] "GET /_next/static/development/_devMiddlewareManifest.json HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:24] info: ::1 - - [17/Jul/2024:05:07:24 +0000] "GET /_next/static/webpack/4e6b1ab85d29ca45.webpack.hot-update.json HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:24] info: ::1 - - [17/Jul/2024:05:07:24 +0000] "GET / HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:24] info: ::1 - - [17/Jul/2024:05:07:24 +0000] "GET /_next/static/chunks/fallback/webpack.js?ts=1721192844619 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:24] info: ::1 - - [17/Jul/2024:05:07:24 +0000] "GET /_next/static/chunks/fallback/react-refresh.js?ts=1721192844619 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:24] info: ::1 - - [17/Jul/2024:05:07:24 +0000] "GET /_next/static/chunks/fallback/pages/_app.js?ts=1721192844619 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:24] info: ::1 - - [17/Jul/2024:05:07:24 +0000] "GET /_next/static/chunks/fallback/pages/_error.js?ts=1721192844619 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:24] info: ::1 - - [17/Jul/2024:05:07:24 +0000] "GET /_next/static/chunks/fallback/main.js?ts=1721192844619 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:25] info: ::1 - - [17/Jul/2024:05:07:25 +0000] "GET /_next/static/development/_devMiddlewareManifest.json HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:36] info: ::1 - - [17/Jul/2024:05:07:36 +0000] "GET /_next/static/webpack/4e6b1ab85d29ca45.webpack.hot-update.json HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:36] info: ::1 - - [17/Jul/2024:05:07:36 +0000] "GET / HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:36] info: ::1 - - [17/Jul/2024:05:07:36 +0000] "GET /_next/static/chunks/fallback/webpack.js?ts=1721192856596 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:36] info: ::1 - - [17/Jul/2024:05:07:36 +0000] "GET /_next/static/chunks/fallback/react-refresh.js?ts=1721192856596 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:36] info: ::1 - - [17/Jul/2024:05:07:36 +0000] "GET /_next/static/chunks/fallback/pages/_app.js?ts=1721192856596 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:36] info: ::1 - - [17/Jul/2024:05:07:36 +0000] "GET /_next/static/chunks/fallback/pages/_error.js?ts=1721192856596 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:36] info: ::1 - - [17/Jul/2024:05:07:36 +0000] "GET /_next/static/chunks/fallback/main.js?ts=1721192856596 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:36] info: ::1 - - [17/Jul/2024:05:07:36 +0000] "GET /_next/static/development/_devMiddlewareManifest.json HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:48] info: ::1 - - [17/Jul/2024:05:07:48 +0000] "GET /_next/static/webpack/4e6b1ab85d29ca45.webpack.hot-update.json HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:48] info: ::1 - - [17/Jul/2024:05:07:48 +0000] "GET / HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:48] info: ::1 - - [17/Jul/2024:05:07:48 +0000] "GET /_next/static/chunks/fallback/webpack.js?ts=1721192868631 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:48] info: ::1 - - [17/Jul/2024:05:07:48 +0000] "GET /_next/static/chunks/fallback/pages/_app.js?ts=1721192868631 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:48] info: ::1 - - [17/Jul/2024:05:07:48 +0000] "GET /_next/static/chunks/fallback/pages/_error.js?ts=1721192868631 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:48] info: ::1 - - [17/Jul/2024:05:07:48 +0000] "GET /_next/static/chunks/fallback/react-refresh.js?ts=1721192868631 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:48] info: ::1 - - [17/Jul/2024:05:07:48 +0000] "GET /_next/static/chunks/fallback/main.js?ts=1721192868631 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:37:48] info: ::1 - - [17/Jul/2024:05:07:48 +0000] "GET /_next/static/development/_devMiddlewareManifest.json HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:00] info: ::1 - - [17/Jul/2024:05:08:00 +0000] "GET /_next/static/webpack/4e6b1ab85d29ca45.webpack.hot-update.json HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:00] info: ::1 - - [17/Jul/2024:05:08:00 +0000] "GET / HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:00] info: ::1 - - [17/Jul/2024:05:08:00 +0000] "GET /_next/static/chunks/fallback/webpack.js?ts=1721192880686 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:00] info: ::1 - - [17/Jul/2024:05:08:00 +0000] "GET /_next/static/chunks/fallback/react-refresh.js?ts=1721192880686 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:00] info: ::1 - - [17/Jul/2024:05:08:00 +0000] "GET /_next/static/chunks/fallback/pages/_app.js?ts=1721192880686 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:00] info: ::1 - - [17/Jul/2024:05:08:00 +0000] "GET /_next/static/chunks/fallback/pages/_error.js?ts=1721192880686 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:00] info: ::1 - - [17/Jul/2024:05:08:00 +0000] "GET /_next/static/chunks/fallback/main.js?ts=1721192880686 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:01] info: ::1 - - [17/Jul/2024:05:08:01 +0000] "GET /_next/static/development/_devMiddlewareManifest.json HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:12] info: ::1 - - [17/Jul/2024:05:08:12 +0000] "GET /_next/static/webpack/4e6b1ab85d29ca45.webpack.hot-update.json HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:12] info: ::1 - - [17/Jul/2024:05:08:12 +0000] "GET / HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:12] info: ::1 - - [17/Jul/2024:05:08:12 +0000] "GET /_next/static/chunks/fallback/webpack.js?ts=1721192892688 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:12] info: ::1 - - [17/Jul/2024:05:08:12 +0000] "GET /_next/static/chunks/fallback/react-refresh.js?ts=1721192892688 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:12] info: ::1 - - [17/Jul/2024:05:08:12 +0000] "GET /_next/static/chunks/fallback/pages/_app.js?ts=1721192892688 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:12] info: ::1 - - [17/Jul/2024:05:08:12 +0000] "GET /_next/static/chunks/fallback/pages/_error.js?ts=1721192892688 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:12] info: ::1 - - [17/Jul/2024:05:08:12 +0000] "GET /_next/static/chunks/fallback/main.js?ts=1721192892688 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:13] info: ::1 - - [17/Jul/2024:05:08:13 +0000] "GET /_next/static/development/_devMiddlewareManifest.json HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:24] info: ::1 - - [17/Jul/2024:05:08:24 +0000] "GET /_next/static/webpack/4e6b1ab85d29ca45.webpack.hot-update.json HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:24] info: ::1 - - [17/Jul/2024:05:08:24 +0000] "GET / HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:24] info: ::1 - - [17/Jul/2024:05:08:24 +0000] "GET /_next/static/chunks/fallback/webpack.js?ts=1721192904721 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:24] info: ::1 - - [17/Jul/2024:05:08:24 +0000] "GET /_next/static/chunks/fallback/pages/_app.js?ts=1721192904721 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:24] info: ::1 - - [17/Jul/2024:05:08:24 +0000] "GET /_next/static/chunks/fallback/react-refresh.js?ts=1721192904721 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:24] info: ::1 - - [17/Jul/2024:05:08:24 +0000] "GET /_next/static/chunks/fallback/pages/_error.js?ts=1721192904721 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:25] info: ::1 - - [17/Jul/2024:05:08:25 +0000] "GET /_next/static/chunks/fallback/main.js?ts=1721192904721 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:25] info: ::1 - - [17/Jul/2024:05:08:25 +0000] "GET /_next/static/development/_devMiddlewareManifest.json HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:36] info: ::1 - - [17/Jul/2024:05:08:36 +0000] "GET /_next/static/webpack/4e6b1ab85d29ca45.webpack.hot-update.json HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:36] info: ::1 - - [17/Jul/2024:05:08:36 +0000] "GET / HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:36] info: ::1 - - [17/Jul/2024:05:08:36 +0000] "GET /_next/static/chunks/fallback/webpack.js?ts=1721192916595 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:36] info: ::1 - - [17/Jul/2024:05:08:36 +0000] "GET /_next/static/chunks/fallback/react-refresh.js?ts=1721192916595 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:36] info: ::1 - - [17/Jul/2024:05:08:36 +0000] "GET /_next/static/chunks/fallback/pages/_app.js?ts=1721192916595 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:36] info: ::1 - - [17/Jul/2024:05:08:36 +0000] "GET /_next/static/chunks/fallback/pages/_error.js?ts=1721192916595 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:36] info: ::1 - - [17/Jul/2024:05:08:36 +0000] "GET /_next/static/chunks/fallback/main.js?ts=1721192916595 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:37] info: ::1 - - [17/Jul/2024:05:08:37 +0000] "GET /_next/static/development/_devMiddlewareManifest.json HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:39] info: ::1 - - [17/Jul/2024:05:08:39 +0000] "GET /_next/static/webpack/4e6b1ab85d29ca45.webpack.hot-update.json HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:39] info: ::1 - - [17/Jul/2024:05:08:39 +0000] "GET / HTTP/1.1" 500 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:39] info: ::1 - - [17/Jul/2024:05:08:39 +0000] "GET /_next/static/chunks/fallback/webpack.js?ts=1721192919803 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:39] info: ::1 - - [17/Jul/2024:05:08:39 +0000] "GET /_next/static/chunks/fallback/react-refresh.js?ts=1721192919803 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:39] info: ::1 - - [17/Jul/2024:05:08:39 +0000] "GET /_next/static/chunks/fallback/pages/_app.js?ts=1721192919803 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:39] info: ::1 - - [17/Jul/2024:05:08:39 +0000] "GET /_next/static/chunks/fallback/pages/_error.js?ts=1721192919803 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:40] info: ::1 - - [17/Jul/2024:05:08:40 +0000] "GET /_next/static/chunks/fallback/main.js?ts=1721192919803 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:40] info: ::1 - - [17/Jul/2024:05:08:40 +0000] "GET /_next/static/development/_devMiddlewareManifest.json HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:43] info: ::1 - - [17/Jul/2024:05:08:43 +0000] "GET /_next/static/webpack/4e6b1ab85d29ca45.webpack.hot-update.json HTTP/1.1" 404 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:43] info: ::1 - - [17/Jul/2024:05:08:43 +0000] "GET / HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:43] info: ::1 - - [17/Jul/2024:05:08:43 +0000] "GET /images/callout.png HTTP/1.1" 200 87955 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:43] info: ::1 - - [17/Jul/2024:05:08:43 +0000] "GET /_next/static/chunks/react-refresh.js?ts=1721192923574 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:44] info: ::1 - - [17/Jul/2024:05:08:44 +0000] "GET /_next/static/chunks/webpack.js?ts=1721192923574 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:44] info: ::1 - - [17/Jul/2024:05:08:44 +0000] "GET /_next/static/chunks/main.js?ts=1721192923574 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:44] info: ::1 - - [17/Jul/2024:05:08:44 +0000] "GET /_next/static/chunks/pages/_app.js?ts=1721192923574 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:44] info: ::1 - - [17/Jul/2024:05:08:44 +0000] "GET /_next/static/chunks/pages/index.js?ts=1721192923574 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:44] info: ::1 - - [17/Jul/2024:05:08:44 +0000] "GET /_next/static/development/_buildManifest.js?ts=1721192923574 HTTP/1.1" 200 296 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:44] info: ::1 - - [17/Jul/2024:05:08:44 +0000] "GET /_next/static/development/_ssgManifest.js?ts=1721192923574 HTTP/1.1" 200 76 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:45] info: ::1 - - [17/Jul/2024:05:08:45 +0000] "GET /_next/static/development/_devMiddlewareManifest.json HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:46] info: ::1 - - [17/Jul/2024:05:08:46 +0000] "GET /manifest.webmanifest HTTP/1.1" 200 1188 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:46] info: ::1 - - [17/Jul/2024:05:08:46 +0000] "GET /images/favicon-32x32.png HTTP/1.1" 200 853 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:38:46] info: ::1 - - [17/Jul/2024:05:08:46 +0000] "GET /images/icons/icon-144x144.png HTTP/1.1" 200 11048 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:37] info: ::1 - - [17/Jul/2024:05:09:37 +0000] "GET / HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:37] info: ::1 - - [17/Jul/2024:05:09:37 +0000] "GET /images/callout.png HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:37] info: ::1 - - [17/Jul/2024:05:09:37 +0000] "GET /_next/static/chunks/react-refresh.js?ts=1721192977404 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:37] info: ::1 - - [17/Jul/2024:05:09:37 +0000] "GET /_next/static/development/_buildManifest.js?ts=1721192977404 HTTP/1.1" 200 296 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:37] info: ::1 - - [17/Jul/2024:05:09:37 +0000] "GET /_next/static/chunks/webpack.js?ts=1721192977404 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:37] info: ::1 - - [17/Jul/2024:05:09:37 +0000] "GET /_next/static/development/_ssgManifest.js?ts=1721192977404 HTTP/1.1" 200 76 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:37] info: ::1 - - [17/Jul/2024:05:09:37 +0000] "GET /_next/static/chunks/pages/_app.js?ts=1721192977404 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:37] info: ::1 - - [17/Jul/2024:05:09:37 +0000] "GET /_next/static/chunks/pages/index.js?ts=1721192977404 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:37] info: ::1 - - [17/Jul/2024:05:09:37 +0000] "GET /_next/static/chunks/main.js?ts=1721192977404 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:38] info: ::1 - - [17/Jul/2024:05:09:38 +0000] "GET /_next/static/development/_devMiddlewareManifest.json HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:38] info: ::1 - - [17/Jul/2024:05:09:38 +0000] "GET /manifest.webmanifest HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:38] info: ::1 - - [17/Jul/2024:05:09:38 +0000] "GET /images/favicon-32x32.png HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:38] info: ::1 - - [17/Jul/2024:05:09:38 +0000] "GET /images/googlechrome.svg HTTP/1.1" 200 850 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:38] info: ::1 - - [17/Jul/2024:05:09:38 +0000] "GET /images/mozillafirefox.svg HTTP/1.1" 200 2566 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:38] info: ::1 - - [17/Jul/2024:05:09:38 +0000] "GET /images/icons/icon-144x144.png HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:38] info: ::1 - - [17/Jul/2024:05:09:38 +0000] "GET /_next/static/development/_devPagesManifest.json HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:38] info: ::1 - - [17/Jul/2024:05:09:38 +0000] "GET /images/logo.svg HTTP/1.1" 200 2266 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:39] info: ::1 - - [17/Jul/2024:05:09:39 +0000] "GET /_next/static/webpack/a6b2cd3c87bde903.webpack.hot-update.json HTTP/1.1" 200 31 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:39] info: ::1 - - [17/Jul/2024:05:09:39 +0000] "GET /_next/static/webpack/webpack.a6b2cd3c87bde903.hot-update.js HTTP/1.1" 200 858 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:39] info: ::1 - - [17/Jul/2024:05:09:39 +0000] "GET /_next/static/webpack/296ec8080f952281.webpack.hot-update.json HTTP/1.1" 404 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:39] info: ::1 - - [17/Jul/2024:05:09:39 +0000] "GET / HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:39] info: ::1 - - [17/Jul/2024:05:09:39 +0000] "GET /images/callout.png HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:39] info: ::1 - - [17/Jul/2024:05:09:39 +0000] "GET /_next/static/chunks/react-refresh.js?ts=1721192979889 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:40] info: ::1 - - [17/Jul/2024:05:09:40 +0000] "GET /_next/static/chunks/webpack.js?ts=1721192979889 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:40] info: ::1 - - [17/Jul/2024:05:09:40 +0000] "GET /_next/static/chunks/pages/_app.js?ts=1721192979889 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:40] info: ::1 - - [17/Jul/2024:05:09:40 +0000] "GET /_next/static/development/_buildManifest.js?ts=1721192979889 HTTP/1.1" 200 296 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:40] info: ::1 - - [17/Jul/2024:05:09:40 +0000] "GET /_next/static/development/_ssgManifest.js?ts=1721192979889 HTTP/1.1" 200 76 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:40] info: ::1 - - [17/Jul/2024:05:09:40 +0000] "GET /_next/static/chunks/pages/index.js?ts=1721192979889 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:40] info: ::1 - - [17/Jul/2024:05:09:40 +0000] "GET /_next/static/chunks/main.js?ts=1721192979889 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:40] info: ::1 - - [17/Jul/2024:05:09:40 +0000] "GET /_next/static/development/_devMiddlewareManifest.json HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:40] info: ::1 - - [17/Jul/2024:05:09:40 +0000] "GET /images/favicon-32x32.png HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:40] info: ::1 - - [17/Jul/2024:05:09:40 +0000] "GET /manifest.webmanifest HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:39:40] info: ::1 - - [17/Jul/2024:05:09:40 +0000] "GET /images/icons/icon-144x144.png HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:40:41] info: ::1 - - [17/Jul/2024:05:10:41 +0000] "GET / HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:40:41] info: ::1 - - [17/Jul/2024:05:10:41 +0000] "GET /images/callout.png HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:40:41] info: ::1 - - [17/Jul/2024:05:10:41 +0000] "GET /_next/static/chunks/react-refresh.js?ts=1721193041250 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:40:41] info: ::1 - - [17/Jul/2024:05:10:41 +0000] "GET /_next/static/development/_buildManifest.js?ts=1721193041250 HTTP/1.1" 200 296 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:40:41] info: ::1 - - [17/Jul/2024:05:10:41 +0000] "GET /_next/static/development/_ssgManifest.js?ts=1721193041250 HTTP/1.1" 200 76 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:40:41] info: ::1 - - [17/Jul/2024:05:10:41 +0000] "GET /_next/static/chunks/webpack.js?ts=1721193041250 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:40:41] info: ::1 - - [17/Jul/2024:05:10:41 +0000] "GET /_next/static/chunks/pages/_app.js?ts=1721193041250 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:40:41] info: ::1 - - [17/Jul/2024:05:10:41 +0000] "GET /_next/static/chunks/pages/index.js?ts=1721193041250 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:40:41] info: ::1 - - [17/Jul/2024:05:10:41 +0000] "GET /_next/static/chunks/main.js?ts=1721193041250 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:40:42] info: ::1 - - [17/Jul/2024:05:10:42 +0000] "GET /_next/static/development/_devMiddlewareManifest.json HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:40:42] info: ::1 - - [17/Jul/2024:05:10:42 +0000] "GET /images/favicon-32x32.png HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:40:42] info: ::1 - - [17/Jul/2024:05:10:42 +0000] "GET /manifest.webmanifest HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:40:42] info: ::1 - - [17/Jul/2024:05:10:42 +0000] "GET /images/icons/icon-144x144.png HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:40:42] info: ::1 - - [17/Jul/2024:05:10:42 +0000] "GET /images/googlechrome.svg HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:40:42] info: ::1 - - [17/Jul/2024:05:10:42 +0000] "GET /images/mozillafirefox.svg HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:40:42] info: ::1 - - [17/Jul/2024:05:10:42 +0000] "GET /_next/static/development/_devPagesManifest.json HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+[2024-07-17 10:40:42] info: ::1 - - [17/Jul/2024:05:10:42 +0000] "GET /images/logo.svg HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+

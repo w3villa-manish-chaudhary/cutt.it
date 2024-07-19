@@ -1,0 +1,18 @@
+[2024-07-18 10:54:59] error: connect ECONNREFUSED 127.0.0.1:587
+[2024-07-18 11:24:03] error: connect ECONNREFUSED 127.0.0.1:587
+[2024-07-18 11:25:04] error: connect ECONNREFUSED 127.0.0.1:587
+[2024-07-18 11:25:05] error: connect ECONNREFUSED 127.0.0.1:587
+[2024-07-18 11:29:15] error: connect ECONNREFUSED 127.0.0.1:587
+[2024-07-18 11:29:44] error: connect ECONNREFUSED 127.0.0.1:587
+[2024-07-18 18:00:59] error: Invalid options provided to simple-oauth2 "auth.tokenHost" is not allowed to be empty
+[2024-07-18 18:02:32] error: Invalid options provided to simple-oauth2 "auth.tokenHost" is not allowed to be empty
+[2024-07-18 18:02:33] error: Invalid options provided to simple-oauth2 "auth.tokenHost" is not allowed to be empty
+[2024-07-18 18:04:26] error: Invalid options provided to simple-oauth2 "auth.tokenHost" is not allowed to be empty
+[2024-07-18 18:08:44] error: Invalid options provided to simple-oauth2 "auth.tokenHost" is not allowed to be empty
+[2024-07-18 18:12:06] error: Invalid options provided to simple-oauth2 "auth.tokenHost" is not allowed to be empty
+[2024-07-18 18:12:12] error: Invalid options provided to simple-oauth2 "auth.tokenHost" is not allowed to be empty
+[2024-07-18 18:12:14] error: Invalid options provided to simple-oauth2 "auth.tokenHost" is not allowed to be empty
+[2024-07-18 18:12:15] error: Invalid options provided to simple-oauth2 "auth.tokenHost" is not allowed to be empty
+[2024-07-18 18:12:22] error: Invalid options provided to simple-oauth2 "auth.tokenHost" is not allowed to be empty
+[2024-07-18 18:12:23] error: Invalid options provided to simple-oauth2 "auth.tokenHost" is not allowed to be empty
+[2024-07-18 18:12:31] error: Invalid options provided to simple-oauth2 "auth.tokenHost" is not allowed to be empty

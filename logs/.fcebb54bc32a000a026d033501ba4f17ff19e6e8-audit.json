@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "/home/w3villa/Documents/link/logs/.fcebb54bc32a000a026d033501ba4f17ff19e6e8-audit.json",
+    "files": [
+        {
+            "date": 1721145187330,
+            "name": "/home/w3villa/Documents/link/logs/2024-07-16_error.log",
+            "hash": "b059a0d9218cc70b6d797cafd2df00005e28f688ca884f1858358f865dda192b"
+        },
+        {
+            "date": 1721189948509,
+            "name": "/home/w3villa/Documents/link/logs/2024-07-17_error.log",
+            "hash": "2045284049096ab8ff8964a4ea6b148cdf2b2b4a078dec12d43d504f3baaeed5"
+        }
+    ],
+    "hashType": "sha256"
+}
