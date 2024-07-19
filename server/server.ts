@@ -1,5 +1,4 @@
 import env from "./env";
-
 import asyncHandler from "express-async-handler";
 import cookieParser from "cookie-parser";
 import passport from "passport";

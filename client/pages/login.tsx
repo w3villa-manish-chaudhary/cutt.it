@@ -29,6 +29,9 @@ const LoginPage = () => {
   const [verifying, setVerifying] = useState(false);
   const [loading, setLoading] = useState({ login: false });
 
+  // const redirectUrl = `${process.env.BASE_URL}/api/v2/auth/signin/kivo`;
+  const redirectUrl = "https://c01a-136-232-130-202.ngrok-free.app/api/v2/auth/signin/kivo";
+
   useEffect(() => {
     if (isAuthenticated) Router.push("/");
   }, [isAuthenticated]);
@@ -44,7 +47,7 @@ const LoginPage = () => {
     try {
       // You need to define the login logic here. For now, assuming it redirects to Kivo's OAuth endpoint
       // This could be a redirect to an OAuth provider or similar
-      Router.push("http://localhost:3000/api/v2/auth/signin/kivo");
+      Router.push(redirectUrl);
     } catch (error) {
       setError(error.response?.data?.error || "An error occurred.");
     } finally {
@@ -55,12 +58,12 @@ const LoginPage = () => {
 const handleKivoAuth = async (e: any) =>{
   try {
     e?.preventDefault();
-    const response: any = await axios.get("http://localhost:3000/api/v2/auth/signin/kivo");
-    if(response?.data){
-      // window.location.href = response.data;
-      console.log('data', response?.data);
-      window.location.href = response?.data?.data;
-    }
+    window.location.href = redirectUrl
+    // if(response?.data){
+    //   // window.location.href = response.data;
+    //   console.log('data', response?.data);
+    //   window.location.href = response?.data?.data;
+    // }
     
   } catch (error) {
     console.error("Error in handleKivoAuth:", error);
@@ -94,7 +97,7 @@ const handleKivoAuth = async (e: any) =>{
                 />
                 Log in Kivo.ai
               </Button>
-              <Button onclick="window.location.href='/signin/kivo'">Login with Kivo</Button>
+              {/* <Button onclick="window.location.href='/signin/kivo'">Login with Kivo</Button> */}
             </Flex>
             <Text color="red" mt={1} normal>
               {error}

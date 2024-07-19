@@ -1,8 +1,10 @@
+"use client"
 import { Flex } from "rebass/styled-components";
 import React, { useEffect } from "react";
 import styled from "styled-components";
 import decode from "jwt-decode";
 import cookie from "js-cookie";
+
 
 import AppWrapper from "../components/AppWrapper";
 import { Button } from "../components/Button";
@@ -13,7 +15,8 @@ import Icon from "../components/Icon";
 import { NextPage } from "next";
 import { Colors } from "../consts";
 import ALink from "../components/ALink";
-
+import { useRouter } from "next/router";
+import Router from "next/router";
 interface Props {
   token?: string;
 }
@@ -36,6 +39,11 @@ const Message = styled.p`
 const Verify: NextPage<Props> = ({ token }) => {
   const addAuth = useStoreActions((s) => s.auth.add);
 
+  const codeData = useRouter();
+  const {code} = codeData.query
+
+  console.log("Query::::::::::::::::::::::", code)
+
   useEffect(() => {
     if (token) {
       cookie.set("token", token, { expires: 7 });
@@ -44,35 +52,13 @@ const Verify: NextPage<Props> = ({ token }) => {
     }
   }, [token, addAuth]);
 
+  useEffect(() => {
+    console.log(Router,'=======')
+  }, [Router]);
+
   return (
     <AppWrapper>
-      {token ? (
-        <Col alignItems="center">
-          <MessageWrapper>
-            <Icon name="check" size={32} mr={3} stroke={Colors.CheckIcon} />
-            <Message>Your account has been verified successfully!</Message>
-          </MessageWrapper>
-          <ALink href="/" forButton isNextLink>
-            <Button>
-              <Icon name="arrowLeft" stroke="white" mr={2} />
-              Back to homepage
-            </Button>
-          </ALink>
-        </Col>
-      ) : (
-        <Col alignItems="center">
-          <MessageWrapper>
-            <Icon name="x" size={32} mr={3} stroke={Colors.TrashIcon} />
-            <Message>Invalid verification.</Message>
-          </MessageWrapper>
-          <ALink href="/login" forButton isNextLink>
-            <Button color="purple">
-              <Icon name="arrowLeft" stroke="white" mr={2} />
-              Back to signup
-            </Button>
-          </ALink>
-        </Col>
-      )}
+      <h1>Successfully Login </h1>
     </AppWrapper>
   );
 };

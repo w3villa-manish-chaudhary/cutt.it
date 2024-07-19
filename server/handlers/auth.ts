@@ -371,6 +371,8 @@ export const kivoCallback: Handler = async (req, res, next) => {
       data: kivo_user,
       message: "Signed in successfully",
     });
+
+
   } catch (error) {
     console.error("Error in auth:kivoCallback service function", error);
     next(error);
