@@ -565,7 +565,7 @@ const LinksTable: FC = () => {
 
   useEffect(() => {
     get(options).catch((err) =>
-      setTableMessage(err?.response?.data?.error || "An error occurred.")
+      setTableMessage(err?.response?.data?.error || "An error occurred.!!!")
     );
   }, [options, get]);
 

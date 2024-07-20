@@ -1,0 +1,33 @@
+[2024-07-21 00:49:46] error: connect ECONNREFUSED 127.0.0.1:587
+[2024-07-21 00:49:48] error: connect ECONNREFUSED 127.0.0.1:587
+[2024-07-21 00:49:58] error: connect ECONNREFUSED 127.0.0.1:587
+[2024-07-21 00:50:00] error: connect ECONNREFUSED 127.0.0.1:587
+[2024-07-21 00:50:03] error: Your email address is not verified. Click on signup to get the verification link again.
+[2024-07-21 00:50:10] error: connect ECONNREFUSED 127.0.0.1:587
+[2024-07-21 00:50:19] error: connect ECONNREFUSED 127.0.0.1:587
+[2024-07-21 00:53:17] error: connect ECONNREFUSED 127.0.0.1:587
+[2024-07-21 00:53:18] error: connect ECONNREFUSED 127.0.0.1:587
+[2024-07-21 00:53:19] error: connect ECONNREFUSED 127.0.0.1:587
+[2024-07-21 00:53:21] error: connect ECONNREFUSED 127.0.0.1:587
+[2024-07-21 00:53:28] error: connect ECONNREFUSED 127.0.0.1:587
+[2024-07-21 01:01:49] error: Your email address is not verified. Click on signup to get the verification link again.
+[2024-07-21 01:02:39] error: Your email address is not verified. Click on signup to get the verification link again.
+[2024-07-21 01:05:48] error: connect ECONNREFUSED 127.0.0.1:587
+[2024-07-21 01:07:43] error: connect ECONNREFUSED 127.0.0.1:587
+[2024-07-21 01:12:35] error: connect ECONNREFUSED 127.0.0.1:587
+[2024-07-21 01:12:38] error: connect ECONNREFUSED 127.0.0.1:587
+[2024-07-21 01:12:39] error: connect ECONNREFUSED 127.0.0.1:587
+[2024-07-21 01:12:40] error: connect ECONNREFUSED 127.0.0.1:587
+[2024-07-21 01:18:42] error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2ccf7b2d5e2sm3903761a91.7 - gsmtp
+[2024-07-21 01:21:08] error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-1fd6f25c010sm25687905ad.56 - gsmtp
+[2024-07-21 01:21:15] error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-1fd6f452205sm25524285ad.223 - gsmtp
+[2024-07-21 01:22:24] error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-70cff491070sm2945153b3a.24 - gsmtp
+[2024-07-21 01:22:26] error: Your email address is not verified. Click on signup to get the verification link again.
+[2024-07-21 01:22:36] error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-79f0f26787dsm2232324a12.76 - gsmtp
+[2024-07-21 01:24:31] error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-1fd6f316d0fsm25647305ad.165 - gsmtp

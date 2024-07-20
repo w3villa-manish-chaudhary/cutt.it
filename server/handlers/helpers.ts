@@ -24,7 +24,7 @@ export const error: ErrorRequestHandler = (error, _req, res, _next) => {
     return res.status(error.statusCode || 500).json({ error: error.message });
   }
 
-  return res.status(500).json({ error: "An error occurred." });
+  return res.status(500).json({ error: "An error occurred...." });
 };
 
 export const getKivoConfig = () => {

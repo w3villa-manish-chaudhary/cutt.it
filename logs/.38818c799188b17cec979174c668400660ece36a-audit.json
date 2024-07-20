@@ -14,6 +14,16 @@
             "date": 1721327412370,
             "name": "/home/manish/Downloads/link2/logs/2024-07-19_app.log",
             "hash": "3aa460c94f54b717b0a8043e5ddd95066a9ecf103245443d0c2afe3e0d33a78a"
+        },
+        {
+            "date": 1721414528478,
+            "name": "/home/manish/Downloads/link2/logs/2024-07-20_app.log",
+            "hash": "0ed0b1cc3ed0af3829b0ea534f5e9ab3380438fa21d8db1cad1ce014bb855e78"
+        },
+        {
+            "date": 1721502118830,
+            "name": "/home/manish/Downloads/link2/logs/2024-07-21_app.log",
+            "hash": "476c5aeacf6f01124bf9d66cdc137bfe7b241f05dfa797e6f0b7e76954fa5fdd"
         }
     ],
     "hashType": "sha256"

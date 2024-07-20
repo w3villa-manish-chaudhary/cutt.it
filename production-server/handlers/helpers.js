@@ -24,7 +24,7 @@ const error = (error, _req, res, _next) => {
     if (error instanceof utils_1.CustomError) {
         return res.status(error.statusCode || 500).json({ error: error.message });
     }
-    return res.status(500).json({ error: "An error occurred." });
+    return res.status(500).json({ error: "An error occurred...." });
 };
 exports.error = error;
 const getKivoConfig = () => {
