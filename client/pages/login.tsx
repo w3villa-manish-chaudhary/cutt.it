@@ -43,7 +43,7 @@ const LoginPage = () => {
     password: string;
   }>(null, { withIds: true });
 
-  const redirectUrl = "https://c01a-136-232-130-202.ngrok-free.app/api/v2/auth/signin/kivo";
+  const redirectUrl = "https://5a4b-136-232-130-202.ngrok-free.app/api/v2/auth/signin/kivo";
 
   useEffect(() => {
     if (isAuthenticated) Router.push("/");
