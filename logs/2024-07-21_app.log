@@ -1057,3 +1057,105 @@
 535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-1fd6f316d0fsm25647305ad.165 - gsmtp
 [2024-07-21 01:24:31] info: ::1 - - [20/Jul/2024:19:54:31 +0000] "POST /api/v2/auth/signup HTTP/1.1" 500 33 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
 
+[2024-07-21 14:46:10] info: ::1 - - [21/Jul/2024:09:16:10 +0000] "GET / HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:46:10] info: ::1 - - [21/Jul/2024:09:16:10 +0000] "GET /images/callout.png HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:46:10] info: ::1 - - [21/Jul/2024:09:16:10 +0000] "GET /_next/static/chunks/react-refresh.js?ts=1721553369726 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:46:10] info: ::1 - - [21/Jul/2024:09:16:10 +0000] "GET /_next/static/development/_buildManifest.js?ts=1721553369726 HTTP/1.1" 200 296 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:46:10] info: ::1 - - [21/Jul/2024:09:16:10 +0000] "GET /_next/static/development/_ssgManifest.js?ts=1721553369726 HTTP/1.1" 200 76 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:46:10] info: ::1 - - [21/Jul/2024:09:16:10 +0000] "GET /_next/static/chunks/webpack.js?ts=1721553369726 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:46:10] info: ::1 - - [21/Jul/2024:09:16:10 +0000] "GET /_next/static/chunks/pages/_app.js?ts=1721553369726 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:46:10] info: ::1 - - [21/Jul/2024:09:16:10 +0000] "GET /_next/static/chunks/pages/index.js?ts=1721553369726 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:46:10] info: ::1 - - [21/Jul/2024:09:16:10 +0000] "GET /_next/static/chunks/main.js?ts=1721553369726 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:46:11] info: ::1 - - [21/Jul/2024:09:16:11 +0000] "GET /_next/static/development/_devMiddlewareManifest.json HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:46:11] info: ::1 - - [21/Jul/2024:09:16:11 +0000] "GET /manifest.webmanifest HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:46:11] info: ::1 - - [21/Jul/2024:09:16:11 +0000] "GET /images/googlechrome.svg HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:46:11] info: ::1 - - [21/Jul/2024:09:16:11 +0000] "GET /images/mozillafirefox.svg HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:46:11] info: ::1 - - [21/Jul/2024:09:16:11 +0000] "GET /_next/static/development/_devPagesManifest.json HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:46:11] info: ::1 - - [21/Jul/2024:09:16:11 +0000] "GET /images/icons/icon-144x144.png HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:46:11] info: ::1 - - [21/Jul/2024:09:16:11 +0000] "GET /images/logo.svg HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:46:14] info: ::1 - - [21/Jul/2024:09:16:14 +0000] "GET /_next/static/webpack/52f3537a88a96041.webpack.hot-update.json HTTP/1.1" 200 31 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:46:14] info: ::1 - - [21/Jul/2024:09:16:14 +0000] "GET /_next/static/webpack/webpack.52f3537a88a96041.hot-update.js HTTP/1.1" 200 858 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:46:14] info: ::1 - - [21/Jul/2024:09:16:14 +0000] "GET /_next/static/chunks/pages/login.js HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:48:48] info: ::1 - - [21/Jul/2024:09:18:48 +0000] "GET / HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:48:48] info: ::1 - - [21/Jul/2024:09:18:48 +0000] "GET /images/callout.png HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:48:48] info: ::1 - - [21/Jul/2024:09:18:48 +0000] "GET /_next/static/chunks/webpack.js?ts=1721553528079 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:48:48] info: ::1 - - [21/Jul/2024:09:18:48 +0000] "GET /_next/static/development/_buildManifest.js?ts=1721553528079 HTTP/1.1" 200 367 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:48:48] info: ::1 - - [21/Jul/2024:09:18:48 +0000] "GET /_next/static/chunks/react-refresh.js?ts=1721553528079 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:48:48] info: ::1 - - [21/Jul/2024:09:18:48 +0000] "GET /_next/static/development/_ssgManifest.js?ts=1721553528079 HTTP/1.1" 200 76 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:48:48] info: ::1 - - [21/Jul/2024:09:18:48 +0000] "GET /_next/static/chunks/pages/_app.js?ts=1721553528079 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:48:48] info: ::1 - - [21/Jul/2024:09:18:48 +0000] "GET /_next/static/chunks/pages/index.js?ts=1721553528079 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:48:48] info: ::1 - - [21/Jul/2024:09:18:48 +0000] "GET /_next/static/chunks/main.js?ts=1721553528079 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:48:49] info: ::1 - - [21/Jul/2024:09:18:49 +0000] "GET /_next/static/development/_devMiddlewareManifest.json HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:48:49] info: ::1 - - [21/Jul/2024:09:18:49 +0000] "GET /manifest.webmanifest HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:48:49] info: ::1 - - [21/Jul/2024:09:18:49 +0000] "GET /images/favicon-32x32.png HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:48:49] info: ::1 - - [21/Jul/2024:09:18:49 +0000] "GET /images/googlechrome.svg HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:48:49] info: ::1 - - [21/Jul/2024:09:18:49 +0000] "GET /images/mozillafirefox.svg HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:48:49] info: ::1 - - [21/Jul/2024:09:18:49 +0000] "GET /images/icons/icon-144x144.png HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:48:49] info: ::1 - - [21/Jul/2024:09:18:49 +0000] "GET /_next/static/development/_devPagesManifest.json HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:48:49] info: ::1 - - [21/Jul/2024:09:18:49 +0000] "GET /images/logo.svg HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:48:51] info: ::1 - - [21/Jul/2024:09:18:51 +0000] "GET /_next/static/chunks/pages/login.js HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:49:18] info: ::1 - - [21/Jul/2024:09:19:18 +0000] "GET /api/v2/auth/signin/kivo HTTP/1.1" 302 458 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:49:46] info: ::1 - - [21/Jul/2024:09:19:46 +0000] "GET /verify?code=h4eaR5w1rU_jcT0rY4ZYtim5F20hOeMWex5N3U72PA8 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:49:47] info: ::1 - - [21/Jul/2024:09:19:47 +0000] "GET /_next/static/chunks/react-refresh.js?ts=1721553586877 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:49:47] info: ::1 - - [21/Jul/2024:09:19:47 +0000] "GET /_next/static/development/_buildManifest.js?ts=1721553586877 HTTP/1.1" 200 380 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:49:47] info: ::1 - - [21/Jul/2024:09:19:47 +0000] "GET /_next/static/development/_ssgManifest.js?ts=1721553586877 HTTP/1.1" 200 76 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:49:47] info: ::1 - - [21/Jul/2024:09:19:47 +0000] "GET /_next/static/chunks/webpack.js?ts=1721553586877 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:49:47] info: ::1 - - [21/Jul/2024:09:19:47 +0000] "GET /_next/static/chunks/pages/_app.js?ts=1721553586877 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:49:47] info: ::1 - - [21/Jul/2024:09:19:47 +0000] "GET /_next/static/chunks/pages/verify.js?ts=1721553586877 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:49:47] info: ::1 - - [21/Jul/2024:09:19:47 +0000] "GET /_next/static/chunks/main.js?ts=1721553586877 HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:49:47] info: ::1 - - [21/Jul/2024:09:19:47 +0000] "GET /_next/static/development/_devMiddlewareManifest.json HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:49:47] info: ::1 - - [21/Jul/2024:09:19:47 +0000] "GET /manifest.webmanifest HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:49:47] info: ::1 - - [21/Jul/2024:09:19:47 +0000] "GET /_next/static/development/_devPagesManifest.json HTTP/1.1" 200 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:49:47] info: ::1 - - [21/Jul/2024:09:19:47 +0000] "GET /images/logo.svg HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+[2024-07-21 14:49:47] info: ::1 - - [21/Jul/2024:09:19:47 +0000] "GET /images/icons/icon-144x144.png HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+

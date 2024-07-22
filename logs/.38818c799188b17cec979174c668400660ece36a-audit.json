@@ -24,6 +24,11 @@
             "date": 1721502118830,
             "name": "/home/manish/Downloads/link2/logs/2024-07-21_app.log",
             "hash": "476c5aeacf6f01124bf9d66cdc137bfe7b241f05dfa797e6f0b7e76954fa5fdd"
+        },
+        {
+            "date": 1721625234433,
+            "name": "/home/manish/Downloads/link2/logs/2024-07-22_app.log",
+            "hash": "692579203aec01030f9bfc8fd6c478ba0d1375bb7077e1a7171c6d29b4306046"
         }
     ],
     "hashType": "sha256"
